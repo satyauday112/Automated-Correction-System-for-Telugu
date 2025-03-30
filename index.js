@@ -5,7 +5,7 @@ let select = document.getElementById('content');
 let teacherup = document.getElementById('teacherupload');
 let studentup = document.getElementById('studentupload');
 let btn = document.getElementById('recognizeButton');
-let serverUrl = 'http://localhost:5000/run_my_script';
+let serverUrl = 'https://automated-paper-correction-for-telugu.onrender.com/run_my_script';
 
 btn.addEventListener("click", postfunction);
 
