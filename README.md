@@ -20,7 +20,7 @@ This project aims to provide an automated correction system for Telugu handwritt
 ---
 
 ## Website URL
-*(Add the website URL here)*
+*(Live Website URL)*
 
 ---
 
