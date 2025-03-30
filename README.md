@@ -1,4 +1,4 @@
-# Telugu Automate Correction Project
+# Telugu Automate Paper Correction Project
 
 This project aims to provide an automated correction system for Telugu handwritten answers. Users can upload both teacher and student answers to get results. The system is designed to streamline the evaluation process and ensure accuracy in corrections.
 
@@ -13,13 +13,9 @@ This project aims to provide an automated correction system for Telugu handwritt
 ---
 
 ## Sample Pictures
-![Sample Image 1](Sample Images/snap1.png)
-![Sample Image 2](Sample Images/snap2.png)
+![Sample Image 1](Sample%20Images/snap1.png)
 
----
-
-## Website URL
-*(Add the website URL here)*
+![Sample Image 2](Sample%20Images/snap2.png)
 
 ---
 
