@@ -19,4 +19,9 @@ This project aims to provide an automated correction system for Telugu handwritt
 
 ---
 
+## Website URL
+*([Live Website URL](https://satyauday112.github.io/Automated-Paper-Correction-for-Telugu/))*
+
+---
+
 We welcome contributions! Feel free to contribute and help us improve this project. Stay tuned for updates as we continue to enhance the system!
