@@ -14,7 +14,7 @@ This project aims to provide an automated correction system for Telugu handwritt
 
 ## Sample Pictures
 ![Sample Image 1](Sample%20Images/snap1.png)
-**Score**
+- **Score**
 ![Sample Image 2](Sample%20Images/snap2.png)
 
 ---
