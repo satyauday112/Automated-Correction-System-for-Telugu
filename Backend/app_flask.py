@@ -28,9 +28,9 @@ def run_my_script():
                 return jsonify({'error': 'Missing input_data parameter'}), 400
             
             # Path to the virtual environment's Python executable
-            venv_python = os.path.join('.venv', 'Scripts', 'python.exe')
+            # venv_python = os.path.join('.venv', 'Scripts', 'python.exe')
             
-            result = subprocess.run([venv_python, 'Evaluation_model.py', data['teacherans'], data['studentans']],
+            result = subprocess.run(['python', 'Evaluation_model.py', data['teacherans'], data['studentans']],
                                     capture_output=True, text=True)
             if result.returncode == 0:
                 return jsonify({'result': result.stdout.strip()})
