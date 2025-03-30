@@ -20,7 +20,7 @@ This project aims to provide an automated correction system for Telugu handwritt
 ---
 
 ## Website URL
-*(Live Website URL)*
+*([Live Website URL](https://satyauday112.github.io/Automated-Correction-System-for-Telugu/))*
 
 ---
 
