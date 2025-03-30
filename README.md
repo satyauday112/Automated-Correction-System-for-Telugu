@@ -13,7 +13,7 @@ This project aims to provide an automated correction system for Telugu handwritt
 ---
 
 ## Sample Pictures
-![Sample Image 1]("Sample Images/snap1.png")
+![Sample Image 1](Sample Images/snap1.png)
 ![Sample Image 2](Sample Images/snap2.png)
 
 ---
