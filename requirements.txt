@@ -2,6 +2,3 @@ scikit-learn
 flask
 flask-cors
 numpy
-pickle
-sys
-subprocess
