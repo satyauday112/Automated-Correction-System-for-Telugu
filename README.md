@@ -1,4 +1,4 @@
-# Telugu Automate Correction Project
+# Telugu Automate Paper Correction Project
 
 This project aims to provide an automated correction system for Telugu handwritten answers. Users can upload both teacher and student answers to get results. The system is designed to streamline the evaluation process and ensure accuracy in corrections.
 
@@ -20,7 +20,7 @@ This project aims to provide an automated correction system for Telugu handwritt
 ---
 
 ## Website URL
-*([Live Website URL](https://satyauday112.github.io/Automated-Correction-System-for-Telugu/))*
+*([Live Website URL](https://satyauday112.github.io/Automated-Paper-Correction-for-Telugu/))*
 
 ---
 
